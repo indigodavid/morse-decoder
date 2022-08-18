@@ -53,3 +53,8 @@ def decode_message(morse_message)
   array.each { |word| decoded_message = "#{decoded_message} #{decode_word(word)}" }
   decoded_message.strip
 end
+
+decode_message("-- -.--   -. .- -- .")
+# Output => "MY NAME"
+decode_message(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+# Output => "A BOX FULL OF RUBIES"
