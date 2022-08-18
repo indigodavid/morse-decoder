@@ -23,7 +23,7 @@
 
 - GitHub: [![GitHub Badge](https://img.shields.io/badge/-emmiorji-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/emmiiorji)
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-emmiiorji-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/emmiiorji)
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-orji-emmanuel-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/orji-emmanuel/)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-orjiemmanuel-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/orji-emmanuel/)
 
 ## 🤝 Contributing
 
