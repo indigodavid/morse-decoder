@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Ruby Template
+# Morse Decoder
 
 > This project contains a simple Ruby app that decodes a morse code sentence.
 
