@@ -2,39 +2,12 @@
 
 # Ruby Template
 
-> Description the project.
+> This project contains a simple Ruby app that decodes a morse code sentence.
 
 
 ## Built With
 
 - Ruby
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
@@ -46,11 +19,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-indigo1987-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/indigo1987)
 - LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-davidveracastillo-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/david-vera-castillo-001b5756/)
 
-👤 **Author2**
+👤 **Emmanuel Orji-Ihuoma**
 
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-github-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/github)
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-twitter-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/twitter)
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/linkedin/)
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-emmiorji-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/emmiiorji)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-emmiiorji-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/emmiiorji)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-orji-emmanuel-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/orji-emmanuel/)
 
 ## 🤝 Contributing
 
